@@ -20,11 +20,11 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
   ![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-00599C?&logo=C%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)]
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=MySQL&logoColor=white)
   ![NoSQL](https://img.shields.io/badge/-NoSQL-000000?&logo=NoSQL&logoColor=white)
-  ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)]
+  ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)
 
 </div>
 
